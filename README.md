@@ -8,5 +8,7 @@ To do so, you will have to find the source of these monsters, as they seem to ap
 Destroy all these monsters in your path, some may be more difficult than others, but don't lose sight of the main goal.
 To defeat Razar himself.
 
+This project was carried out during my first year of study at the school Créajeux (https://www.creajeux.fr/) in 9 weeks with C language and CSFML library.
+
 ### [Trailer](https://www.youtube.com/watch?v=Z1CCCZI_Qwk)
 
